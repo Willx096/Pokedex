@@ -1,0 +1,77 @@
+#container{
+  margin-top: 112px;
+  
+}
+nav{
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+  background: white;
+  margin-bottom: 7px;
+  font-family: 'Press Start 2P', cursive;
+  color: #033d78;
+}
+.datos{
+  background: #ff3636;
+  border: 1px solid black;
+  padding: 8px;
+ }
+.caja{
+  border: 1px solid black;
+  margin: 0px;
+  background: #033d78;
+ 
+}
+
+.name{
+  padding-bottom: 8px;
+  font-family: 'Quantico', sans-serif,Arial Narrow;
+  text-transform: uppercase;
+  background: #373766bd;
+  padding-top: 8px;
+  
+
+}
+.type{
+  padding-bottom: 8px;
+  font-family: 'Quantico', sans-serif;
+  text-transform: uppercase;
+  background: #373766bd;
+  padding-top: 8px;
+  font-size: 12px;
+  
+}
+td{
+  padding-bottom: 9px;
+  padding-top: 10px;
+
+}
+
+ .img{
+    padding: 12px 0px 12px 46px;
+    border-radius: 8px 8px 8px 7px;
+    background: white;
+    float: center;
+}
+
+
+table{
+    width: 100%;
+    background: #b01212;
+    border-radius: 8px 8px 8px 8px;
+    font-family: Arial Narrow, sans-serif;
+    color: #fffcfc;
+    padding: 10px 5px 10px 5px;
+    margin-top: 17px;
+
+  
+}
+
+form {
+  border: 1px black solid;
+  position: fixed;
+  background: red;
+  font-family:Arial Narrow, sans-serif;
+  top: 0px;
+  padding-bottom: 10px;
+  color: white;
+}
